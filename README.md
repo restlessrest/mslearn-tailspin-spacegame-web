@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/khichdi/Space%20Game%20-%20web/_apis/build/status/restlessrest.mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/khichdi/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=code-workflow)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
